@@ -31,7 +31,7 @@ trait Quickable
     {
         $this->login = config('laravel-lsim-sms.login');
         $this->password = config('laravel-lsim-sms.password');
-        $this->sender = urlencode(config('laravel-lsim-sms.sender'));
+        $this->sender = config('laravel-lsim-sms.sender');
 
         if ($this->login === 'lsim' || $this->password === 'password' || $this->sender === 'lsim')
             throw new UnknownLsimCredentials;
