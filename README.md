@@ -2,15 +2,15 @@
 
 # Laravel LSIM SMS
 
-[![Latest Stable Version](https://poser.pugx.org/samirmh-dev/laravel-lsim-sms/v/stable)](https://packagist.org/packages/samirmh-dev/laravel-lsim-sms)
-[![License](https://poser.pugx.org/samirmh-dev/laravel-lsim-sms/license)](https://packagist.org/packages/samirmh-dev/laravel-lsim-sms)
+[![Latest Stable Version](https://poser.pugx.org/samirmhsnv/laravel-lsim-sms/v/stable)](https://packagist.org/packages/samirmhsnv/laravel-lsim-sms)
+[![License](https://poser.pugx.org/samirmhsnv/laravel-lsim-sms/license)](https://packagist.org/packages/samirmhsnv/laravel-lsim-sms)
 
-[![Total Downloads](https://poser.pugx.org/samirmh-dev/laravel-lsim-sms/downloads)](https://packagist.org/packages/samirmh-dev/laravel-lsim-sms)
-[![Monthly Downloads](https://poser.pugx.org/samirmh-dev/laravel-lsim-sms/d/monthly)](https://packagist.org/packages/samirmh-dev/laravel-lsim-sms)
-[![Daily Downloads](https://poser.pugx.org/samirmh-dev/laravel-lsim-sms/d/daily)](https://packagist.org/packages/samirmh-dev/laravel-lsim-sms)
+[![Total Downloads](https://poser.pugx.org/samirmhsnv/laravel-lsim-sms/downloads)](https://packagist.org/packages/samirmhsnv/laravel-lsim-sms)
+[![Monthly Downloads](https://poser.pugx.org/samirmhsnv/laravel-lsim-sms/d/monthly)](https://packagist.org/packages/samirmhsnv/laravel-lsim-sms)
+[![Daily Downloads](https://poser.pugx.org/samirmhsnv/laravel-lsim-sms/d/daily)](https://packagist.org/packages/samirmhsnv/laravel-lsim-sms)
 
-[![composer.lock](https://poser.pugx.org/samirmh-dev/laravel-lsim-sms/composerlock)](https://packagist.org/packages/samirmh-dev/laravel-lsim-sms)
-[![Latest Unstable Version](https://poser.pugx.org/samirmh-dev/laravel-lsim-sms/v/unstable)](https://packagist.org/packages/samirmh-dev/laravel-lsim-sms)
+[![composer.lock](https://poser.pugx.org/samirmhsnv/laravel-lsim-sms/composerlock)](https://packagist.org/packages/samirmhsnv/laravel-lsim-sms)
+[![Latest Unstable Version](https://poser.pugx.org/samirmhsnv/laravel-lsim-sms/v/unstable)](https://packagist.org/packages/samirmhsnv/laravel-lsim-sms)
 
 Laravel frameworkdə LSIM SMS provayderi (sendsms.az) ilə SMS göndərmək üçün paket. Paketdən istifadə etmək üçün LSIM provayderindən müvaffiq məlumatları (istifadəçi adı, şifrə və s.) əldə etməlisiniz.
 
@@ -123,7 +123,7 @@ Sorğu nəticəsində sizə əməliyyatın hazırkı statusu (gözləmədə, ça
 Paketi aşağıdakı komanda ilə proyektinizin composer.json faylına əlavə edin
 
 ```console
-foo@bar:/home/laravel-lsim-sms-demo# composer require samirmh-dev/laravel-lsim-sms
+foo@bar:/home/laravel-lsim-sms-demo# composer require samirmhsnv/laravel-lsim-sms
 ```
 
 **2. Xidmət provayderini əlavə edin**
